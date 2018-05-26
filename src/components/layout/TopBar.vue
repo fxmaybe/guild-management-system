@@ -3,6 +3,7 @@
     <el-col :span="24">
       <div class="head-wrap"><router-link to="/" class="logo"><i class="el-icon-setting"></i> 公会管理后台<!-- Vue-Admin-Base --></router-link></div>
     </el-col>
+    <div class="logout">退出</div>
   </el-row>
 </template>
 
@@ -37,5 +38,13 @@ export default {
     font-size: 16px;
     color: #ffffff;
     text-decoration: none;
+  }
+  .logout {
+    cursor: pointer;
+    position: absolute;
+    right: 25px;
+    top: 21px;
+    font-size: 14px;
+
   }
 </style>

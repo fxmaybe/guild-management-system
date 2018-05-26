@@ -1,6 +1,6 @@
 # guild-management-system
 
-> Guild Management System XXX
+> Guild Management System
 
 ## Build Setup
 

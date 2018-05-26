@@ -27,8 +27,8 @@ html, body {
 }
 
 #app .scroll-container {
-    -webkit-transition: width 0.28s;
-    transition: width 0.28s;
+    -webkit-transition: width .16s;
+    transition: width .16s;
     width: 200px;
     height: 100%;
     position: fixed;
